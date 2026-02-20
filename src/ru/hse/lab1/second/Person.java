@@ -1,4 +1,4 @@
-package ru.hse.lab1.second;
+package src.ru.hse.lab1.second;
 /**
  * Класс Person представляет человека с именем и возрастом.
  * <p>

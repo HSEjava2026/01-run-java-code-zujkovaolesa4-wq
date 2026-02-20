@@ -1,6 +1,6 @@
-package ru.hse.lab1;
+package src.ru.hse.lab1;
 
-import ru.hse.lab1.second.Person;
+import src.ru.hse.lab1.second.Person;
 /**
  * Основной класс приложения для работы с персональными данными.
  * <p>
